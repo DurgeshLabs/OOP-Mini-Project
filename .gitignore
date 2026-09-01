@@ -1,0 +1,11 @@
+# build output
+bin/
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
