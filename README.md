@@ -187,7 +187,7 @@ The project emphasizes writing **modular, reusable, maintainable, and scalable c
 
 ## 👨‍💻 Author
 
-**Yash**
+**Yash** **Arnav** **Adarsh** **Durgesh**
 
 ---
 
